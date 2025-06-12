@@ -1,0 +1,6 @@
+#ifndef SECOCTEST2_LIBRARY_H
+#define SECOCTEST2_LIBRARY_H
+
+void hello();
+
+#endif //SECOCTEST2_LIBRARY_H
